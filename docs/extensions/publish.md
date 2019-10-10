@@ -37,6 +37,8 @@ CiviCRM's publishing process automates a number of tasks related to maintaining 
 -   Complete the steps in "Publishing an extension release" below.
 -   Within a day, you will receive an email notifying you that the extension was published on civicrm.org or that a problem with the extension manifest (`info.xml`) prevented publication.
 
+EDIT: I think there needs to be a new section around here explaining the new / alternative process relating to asking for a new extension path/space to be created on lab.civicrm.org which I see a lot of folk doing in https://chat.civicrm.org/civicrm/channels/extensions
+
 ### Publishing an extension release:
 
 -   Update the extension manifest and push the changes to your GitHub repository. At minimum you'll need to increment the version number.
